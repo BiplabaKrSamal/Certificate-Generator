@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+data/
+
+# local secrets and Vercel's project link
+.env
+.env.*
+.vercel/
+
+# files the operating system leaves behind
+.DS_Store
+Thumbs.db
