@@ -1,0 +1,6 @@
+tests
+examples
+data
+requirements-dev.txt
+pytest.ini
+README.md
