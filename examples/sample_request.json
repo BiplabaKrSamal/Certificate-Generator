@@ -1,0 +1,12 @@
+{
+  "event_name": "Python Bootcamp 2026",
+  "issued_by": "Acme Academy",
+  "issued_on": "2026-10-01",
+  "recipients": [
+    {"name": "Asha Verma", "email": "asha.verma@example.com"},
+    {"name": "Ravi Kumar", "email": "ravi.kumar@example.com"},
+    {"name": "Meera Iyer", "email": "meera.iyer@example.com"},
+    {"name": "Karan Mehta", "email": "not-an-email"},
+    {"name": "José Ñandú", "email": "jose@example.com"}
+  ]
+}
